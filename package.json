@@ -7,7 +7,7 @@
   "dependencies": {
     "js-cookie": "^2.1.3",
     "promise-polyfill": "^7.1.2",
-    "underscore": "^1.9.0",
+    "underscore": "^1.12.1",
     "vue": "^2.3.4",
     "vue-async-computed": "^3.3.1",
     "vue-events": "^3.1.0",
